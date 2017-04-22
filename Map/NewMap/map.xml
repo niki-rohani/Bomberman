@@ -1,0 +1,74 @@
+<xml version = "1.0" encoding = "UTF-8" >
+<resources>
+
+
+
+
+<!-- mur -->
+
+
+<resource type = "image" id ="BLOCK1">Map/NewMap/ressource/block1.png</resource>
+<resource type = "image" id ="BLOCK2">Map/NewMap/ressource/block2.png</resource>
+<resource type = "image" id = "BLOCK3">Map/NewMap/ressource/block3.png</resource>
+<resource type = "image" id = "BLOCK4">Map/NewMap/ressource/block4.png</resource>
+<resource type = "image" id = "BLOCK5">Map/NewMap/ressource/block5.png</resource>
+<resource type = "image" id = "BLOCK6">Map/NewMap/ressource/block7.png</resource>
+<resource type = "image" id = "BLOCK7">Map/NewMap/ressource/block7.png</resource>
+<resource type = "image" id = "BLOCK8">Map/NewMap/ressource/block8.png</resource>
+
+<resource type = "image" id =   "BLOCK9">Map/NewMap/ressource/block9.png</resource>
+<resource type = "image" id =   "BLOCK10">Map/NewMap/ressource/block10.png</resource>
+
+
+
+<resource type = "image" id = "FLOOR1">Map/NewMap/ressource/floor1.png</resource>
+<resource type = "image" id = "FLOOR11">Map/NewMap/ressource/floor11.png</resource>
+<resource type = "image" id = "FLOOR3">Map/NewMap/ressource/floor3.png</resource>
+<resource type = "image" id =   "FLOOR7">Map/NewMap/ressource/floor7.png</resource>
+<resource type = "image" id = "FLOOR4">Map/NewMap/ressource/block4.png</resource>
+
+<resource type = "image" id = "FLOOR2">Map/NewMap/ressource/block4.png</resource>
+<resource type = "image" id = "FLOOR5">Map/NewMap/ressource/floor4.jpg</resource>
+<resource type = "image" id = "FLOOR6">Map/NewMap/ressource/block4.png</resource>
+<resource type = "image" id = "FLOOR8">Map/NewMap/ressource/floor8.png</resource>
+<resource type = "image" id = "FLOOR9">Map/NewMap/ressource/block4.png</resource>
+<resource type = "image" id = "FLOOR10">Map/NewMap/ressource/block4.png</resource>
+<resource type = "image" id = "FLOOR12">Map/NewMap/ressource/block4.png</resource>
+<resource type = "image" id = "FLOOR13">Map/NewMap/ressource/block4.png</resource>
+
+
+<resource type = "image" id = "FLOOR2">Map/NewMap/ressource/block2.png</resource>
+<resource type = "image" id = "FLOOR2">Map/NewMap/ressource/block2.png</resource>
+<resource type = "image" id = "FLOOR2">Map/NewMap/ressource/block2.png</resource>
+<resource type = "image" id = "FLOOR2">Map/NewMap/ressource/block2.png</resource>
+<resource type = "image" id = "FLOOR2">Map/NewMap/ressource/block2.png</resource>
+<resource type = "image" id = "FLOOR2">Map/NewMap/ressource/block2.png</resource>
+
+
+
+<!--  -->
+
+<resources type = "image" id = "ITEM_BOMB"></resources>
+
+
+
+<!-- Block explosable -->
+
+<resource type ="image" id = "EXPLOSE1">Map/NewMap/ressource/explosable1.png</resource>
+
+<resources type = "sound" id = "MUSIC"></resources>
+
+<resources type = "sound" id = "SOUND_PREGAME"></resources>
+
+<resources type = "sound" id = "SOUND_STARTING"></resources>
+
+<resources type = "sound" id = "SOUND_END"></resources>
+
+
+
+
+<resources type = "image" id = "FLOOR"></resources>
+
+</resources>
+
+</xml>
