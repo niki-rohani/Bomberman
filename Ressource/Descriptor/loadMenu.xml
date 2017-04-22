@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- GAMEPLAY -->
+	<!-- Background -->
+
+
+
+	<resource type="image" id="MENU_IN_BACK">Ressource/Image/menuIn.jpg</resource>
+	<resource type="image" id="MENU_IN_PARCH">Ressource/Image/parcheminjeu.png</resource>
+	<resource type="image" id="MENU_IN_BANDE">Ressource/Image/bande.png</resource>
+
+
+	<resource type="image" id="MENU_IN_CHAT">Ressource/Image/chat.png</resource>
+
+
+	
+	<resource type="image" id="MENU_IN_BANDEAU">Ressource/Image/bandeautransparent.png</resource>
+	<resource type="image" id="MENU_IN_SOLEIL">Ressource/Image/soleil.png</resource>
+	
+	<resource type  =  "image" id = "MENU_SHARINGAN_SHIN">Ressource/Image/sharinganshin.png</resource>
+	
+	
+	<resource type="image" id="MENU_SHARINGAN">Ressource/Image/MenuSharingan.png</resource>
+	<resource type="image" id="MENU_SHARIN_BANDE">Ressource/Image/bandesharin.png</resource>
+	
+	
+	<resource type="image" id="MENU_FLECHE">Ressource/Image/fleche.png</resource>
+	<!-- HUD -->
+	<!-- Player Animations -->
+
+	<!-- Son -->
+	<resource type="sound" id="SOUND_MENU_IN">Ressource/Sound/MenuJeu/menuJeuBack.ogg</resource>
+	
+	
+	<!-- File -->
+	<resource type  = "file" id="FILE_XML_WINDKONO">Ressource/part/windKono.xml</resource>
+	
+	
+	<resource type ="text" id="TEXT_MENU_WELCOME_FR">Bienvenue sur BomberShinobi</resource>
+	
+	
+	
+	<!--  -->
+	<resource type="image" id="konoha_PARTICULE">Ressource/part/konoha_particule.png</resource>
+  
+  
+  <!--  -->
+  
+  
+  <resource type="file" id="FONT">Ressource/dekiru.ttf</resource>
+  
+  
+  <resource type="arene">Ressource/Descriptor/arene.xml</resource>
+  
+  
+</resources>

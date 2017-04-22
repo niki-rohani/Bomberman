@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!-- GAMEPLAY -->
+  <!-- Background -->
+  <resource type="image" id="BACK">Ressource/Image/back.jpg</resource>
+  <resource type="image" id="MENU_TORI">Ressource/Image/menuTori.png</resource>
+  <resource type="image" id="OPTION_MOON">Ressource/Image/lune.png</resource>
+  
+  <resource type="image" id="OPTION_P">Ressource/Image/optionParchment.png</resource>
+  <resource type="image" id="MENU_BACK">Ressource/Image/AcceuilBack.png</resource>
+  <resource type="image" id="OPTION_BACK">Ressource/Image/OptionBack.png</resource>
+   <resource type="image" id="GOTOOPTION_BACK">Ressource/Image/gotomenuback.png</resource>
+   
+   
+  <!-- HUD -->
+    <resource type="image" id="MENU_BUTTON_PLAY">Ressource/Image/jouer.png</resource>
+    <resource type="image" id="MENU_BUTTON_PLAYPRESS">Ressource/Image/jouerPress.png</resource>
+    <resource type="image" id="MENU_BUTTON_OPTION">Ressource/Image/option.png</resource>
+    <resource type="image" id="MENU_BUTTON_OPTIONPRESS">Ressource/Image/optionPress.png</resource>
+    <resource type="image" id="MENU_BUTTON_END">Ressource/Image/fin.png</resource>
+    
+  <!--  Player Animations -->
+  
+  <resource type="sound" id="SOUND_MENU">Ressource/Sound/menu/menu.ogg</resource>
+  <resource type="sound" id="SOUND_JOUER_MENU">Ressource/Sound/jouer.wav</resource>
+  <resource type="sound" id="SOUND_SWITCH_MENU">Ressource/Sound/menuSwitch.wav</resource>
+  <resource type="sound" id="SOUND_ENTER_MENU">Ressource/Sound/menuEnter.wav</resource>
+  <resource type="sound" id="WIND_SOUND">Ressource/Sound/menu/wind.wav</resource>
+  
+  
+  <resource type="image" id="FIRE_PARTICULE">Ressource/part/test_particle.png</resource>
+  <resource type="image" id="konoha_PARTICULE">Ressource/part/konoha_particule.png</resource>
+  
+  <resource type="file" id="FILE_XML_WIND">Ressource/part/wind.xml</resource>
+  <resource type="file" id="FILE_XML_WIND2">Ressource/part/wind2.xml</resource>
+  <resource type="file" id="FILE_XML_FIRE">Ressource/part/particule.xml</resource>
+  <resource type="file" id="FILE_XML_THEME">Ressource/Descriptor/chat.xml</resource>
+  
+</resources>

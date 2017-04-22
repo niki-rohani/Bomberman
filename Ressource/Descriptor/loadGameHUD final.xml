@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- HUD -->
+	<resource type ="image" id = "HUD_PIC_1">Ressource/Image/HUD/deidara_pic.png</resource>
+	<resource type ="image" id = "HUD_PIC_2">Ressource/Image/HUD/naruto_pic.png</resource>
+	<resource type ="image" id = "HUD_PIC_3">Ressource/Image/HUD/orochimaru_pic.png</resource>
+	<resource type ="image" id = "HUD_PIC_4">Ressource/Image/HUD/sasuke_pic.png</resource>
+	
+	
+	<resource type ="image" id = "HUD_BOMB">Ressource/Image/HUD/bomb.png</resource>
+	<resource type ="image" id = "HUD_COUNT_1">Ressource/Image/HUD/count1.png</resource>
+	<resource type ="image" id = "HUD_COUNT_2">Ressource/Image/HUD/count2.png</resource>
+	<resource type ="image" id = "HUD_COUNT_3">Ressource/Image/HUD/count3.png</resource>
+	<resource type ="image" id = "HUD_COUNT_4">Ressource/Image/HUD/count4.png</resource>
+	<resource type ="image" id = "HUD_COUNT_5">Ressource/Image/HUD/count5.png</resource>
+	<resource type ="image" id = "HUD_COUNT_6">Ressource/Image/HUD/count6.png</resource>
+	<resource type ="image" id = "HUD_COUNT_7">Ressource/Image/HUD/count7.png</resource>
+	<resource type ="image" id = "HUD_COUNT_8">Ressource/Image/HUD/count8.png</resource>
+	<resource type ="image" id = "HUD_COUNT_9">Ressource/Image/HUD/count9.png</resource>
+	<resource type ="image" id = "HUD_COUNT_0">Ressource/Image/HUD/count0.png</resource>
+	
+	<resource type = "image" id =   "P1">Ressource/Image/HUD/p1.png</resource>
+	
+	
+	
+	<!--    Play -->
+	
+	<resource type = "animation" id = "SPRITE_RUN_1_1">Ressource/Image/Game/run_1_deidara.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_2_1">Ressource/Image/Game/run_2_deidara.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_3_1">Ressource/Image/Game/run_3_deidara.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_4_1">Ressource/Image/Game/run_4_deidara.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_1_1">Ressource/Image/Game/idle_1_deidara.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_2_1">Ressource/Image/Game/idle_2_deidara.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_3_1">Ressource/Image/Game/idle_3_deidara.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_4_1">Ressource/Image/Game/idle_4_deidara.png</resource>
+	
+	
+	
+	<resource type = "animation" id = "SPRITE_RUN_1_2">Ressource/Image/Game/run_1_naruto.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_2_2">Ressource/Image/Game/run_2_naruto.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_3_2">Ressource/Image/Game/run_3_naruto.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_4_2">Ressource/Image/Game/run_4_naruto.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_1_2">Ressource/Image/Game/idle_1_naruto.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_2_2">Ressource/Image/Game/idle_2_naruto.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_3_2">Ressource/Image/Game/idle_3_naruto.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_4_2">Ressource/Image/Game/idle_4_naruto.png</resource>
+	
+	<resource type = "animation" id = "SPRITE_RUN_1_3">Ressource/Image/Game/run_1_orochimaru.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_2_3">Ressource/Image/Game/run_2_orochimaru.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_3_3">Ressource/Image/Game/run_3_orochimaru.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_4_3">Ressource/Image/Game/run_4_orochimaru.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_1_3">Ressource/Image/Game/idle_1_orochimaru.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_2_3">Ressource/Image/Game/idle_2_orochimaru.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_3_3">Ressource/Image/Game/idle_3_orochimaru.png</resource>
+	<resource type = "animation" id = "SPRITE_IDLE_4_3">Ressource/Image/Game/idle_4_orochimaru.png</resource>
+	
+	<resource tw = "" th = "" duration = "" type = "animation" id = "SPRITE_RUN_1_4">Ressource/Image/Game/run_1_sasuke.png</resource>
+	<resource type = "animation" id = "SPRITE_RUN_2_4">Ressource/Image/Game/run_2_sasuke.png</resource>
+	<resource   tw = "41" th = "67" duration = "3"  type = "animation" id = "SPRITE_RUN_3_4">Ressource/Image/Game/run_3_sasuke.png</resource>
+	<resource  type = "animation" id = "SPRITE_RUN_4_4">Ressource/Image/Game/run_4_sasuke.png</resource>
+	<resource tw = "39" th = "67" duration = "4" type = "animation" id = "SPRITE_IDLE_1_2">Ressource/Image/Game/idle_1_sasuke.png</resource>
+	<resource tw = "42" th = "67" duration = "6" type = "animation" id = "SPRITE_IDLE_2_2">Ressource/Image/Game/idle_2_sasuke.png</resource>
+	<resource tw = "38" th = "67" duration = "3" type = "animation" id = "SPRITE_IDLE_3_2">Ressource/Image/Game/idle_3_sasuke.png</resource>
+	<resource tw = "38" th = "67" duration = "3" type = "animation" id = "SPRITE_IDLE_4_2">Ressource/Image/Game/idle_4_sasuke.png</resource>
+	
+	
+	<resource type = "animation" id = "START_1">Ressource/Image/deidara1.png</resource>
+	
+	<!-- Background -->
+	
+
+
+
+	<resource type="image" id="MENU_SELECT_BACK">Ressource/Image/SunaCharacter.png</resource>
+	<resource type="image" id="MENU_IN_PARCH">Ressource/Image/parcheminjeu.png</resource>
+	<resource type="image" id="MENU_IN_BANDE">Ressource/Image/bande.png</resource>
+
+
+	<resource type="image" id="MENU_IN_CHAT">Ressource/Image/chat.png</resource>
+
+
+	
+	<resource type="image" id="MENU_IN_BANDEAU">Ressource/Image/bandeautransparent.png</resource>
+	
+	<resource type  =  "image" id = "MENU_SELECT_BAND">Ressource/Image/CharacterBand.png</resource>
+	
+	
+	
+	<resource type = "image" id = "MENU_ACCEPT">Ressource/Image/Selection/ready .png</resource>
+	
+	
+	<!--  PLAYER -->
+	
+	<resource type = "image" id ="MENU_SELECT_NARUTO_MIN_1">Ressource/Image/Selection/naruto_select_1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_MIN_2">Ressource/Image/Selection/naruto_select_2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_MIN_3">Ressource/Image/Selection/naruto_select_3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_MIN_4">Ressource/Image/Selection/naruto_select_4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_MIN_1">Ressource/Image/Selection/deidara_select_1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_MIN_2">Ressource/Image/Selection/deidara_select_2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_MIN_3">Ressource/Image/Selection/deidara_select_3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_MIN_4">Ressource/Image/Selection/deidara_select_4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_MIN_1">Ressource/Image/Selection/sasuke_select_1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_MIN_2">Ressource/Image/Selection/sasuke_select_2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_MIN_3">Ressource/Image/Selection/sasuke_select_3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_MIN_4">Ressource/Image/Selection/sasuke_select_4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_MIN_1">Ressource/Image/Selection/orochimaru_select_1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_MIN_2">Ressource/Image/Selection/orochimaru_select_2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_MIN_3">Ressource/Image/Selection/orochimaru_select_3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_MIN_4">Ressource/Image/Selection/orochimaru_select_4.png</resource>
+	
+	
+	<resource type = "image" id ="MENU_SELECT_NARUTO_1">Ressource/Image/Selection/naruto 1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_2">Ressource/Image/Selection/naruto 2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_3">Ressource/Image/Selection/naruto 3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_4">Ressource/Image/Selection/naruto 4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_1">Ressource/Image/Selection/deidara 1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_2">Ressource/Image/Selection/deidara 2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_3">Ressource/Image/Selection/deidara 3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_4">Ressource/Image/Selection/deidara 4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_1">Ressource/Image/Selection/sasuke 1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_2">Ressource/Image/Selection/sasuke 2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_3">Ressource/Image/Selection/sasuke 3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_4">Ressource/Image/Selection/sasuke 4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_1">Ressource/Image/Selection/orochimaru 1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_2">Ressource/Image/Selection/orochimaru 2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_3">Ressource/Image/Selection/orochimaru 3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_4">Ressource/Image/Selection/orochimaru 4.png</resource>
+	
+	
+
+<resource type = "image" id ="MENU_SELECT_NARUTO_MIN">Ressource/Image/Selection/naruto_select.png</resource>
+	
+	
+	
+	<resource type = "image" id ="MENU_SELECT_1P">Ressource/Image/Selection/1p.png</resource>
+	<resource type = "image" id ="MENU_SELECT_2P">Ressource/Image/Selection/2p.png</resource>
+	<resource type = "image" id ="MENU_SELECT_3P">Ressource/Image/Selection/3p.png</resource>
+	<resource type = "image" id ="MENU_SELECT_4P">Ressource/Image/Selection/4p.png</resource>
+	
+	
+	<resource type = "sound" id ="MENU_SELECT_ACCEPT_1">Ressource/Sound/waitingRoom/deidara_accept.wav</resource>
+	<resource type = "sound" id ="MENU_SELECT_ACCEPT_2">Ressource/Sound/waitingRoom/naruto_accept.wav</resource>
+	<resource type = "sound" id ="MENU_SELECT_ACCEPT_3">Ressource/Sound/waitingRoom/orochimaru_accept.wav</resource>
+	<resource type = "sound" id ="MENU_SELECT_ACCEPT_4">Ressource/Sound/waitingRoom/sasuke_accept.wav</resource>
+	<resource type = "sound" id ="MENU_SELECT_SELECT">Ressource/Sound/waitingRoom/event.wav</resource>
+	
+	
+	<!-- HUD -->
+	
+	<!-- bombe DEIDARA, NARUTO, OROCHIMARU, SASUKE -->
+
+<resources type = "image" id = "BOMB_1"></resources>
+<resources type = "image" id = "BOMB_2"></resources>
+<resources type = "image" id = "BOMB_3"></resources>
+<resources type = "image" id = "BOMB_4"></resources>
+	<!-- Player Animations -->
+
+	
+  
+</resources>

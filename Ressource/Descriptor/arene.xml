@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!-- GAMEPLAY -->
+  <!-- Background -->
+  <resource nom="areneTest" image="Ressource/Image/Introtitre.png" matrice = "newMap"></resource>
+  
+  <!-- HUD -->
+  <!--  Player Animations -->
+  
+</resources>

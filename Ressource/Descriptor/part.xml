@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources id=#metro3bis>
+<station id = #metro
+1929  terminus = true>#metro
+1782</station>
+<station id = #metro
+1782  terminus = false>#metro
+1929#metro
+1684 </station>
+<station id = #metro
+1684  terminus = false>#metro
+1782#metro
+1736 </station>
+<station id = #metro
+1736 terminus = true>#metro
+1684 </station>
+
+</resources>

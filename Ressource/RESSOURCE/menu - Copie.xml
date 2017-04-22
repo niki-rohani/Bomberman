@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!-- GAMEPLAY -->
+  <!-- Background -->
+  <resource type="image" id="BACK">Ressource/back.jpg</resource>
+  <resource type="image" id="MENU_TORI">Ressource/menuTori.png</resource>
+  <resource type="image" id="OPTION_MOON">Ressource/lune.png</resource>
+  
+  <resource type="image" id="OPTION_P">Ressource/optionParchment.png</resource>
+  <resource type="image" id="MENU_BACK">Ressource/AcceuilBack.png</resource>
+  <resource type="image" id="OPTION_BACK">Ressource/OptionBack.png</resource>
+   <resource type="image" id="GOTOOPTION_BACK">Ressource/gotomenuback.png</resource>
+   
+   
+  <!-- HUD -->
+    <resource type="image" id="MENU_BUTTON_PLAY">Ressource/jouer.png</resource>
+    <resource type="image" id="MENU_BUTTON_PLAYPRESS">Ressource/jouerPress.png</resource>
+    <resource type="image" id="MENU_BUTTON_OPTION">Ressource/option.png</resource>
+    <resource type="image" id="MENU_BUTTON_OPTIONPRESS">Ressource/optionPress.png</resource>
+    <resource type="image" id="MENU_BUTTON_END">Ressource/fin.png</resource>
+    
+  <!--  Player Animations -->
+  
+  <resource type="sound" id="SOUND_MENU">Ressource/Sound/menu/menu.ogg</resource>
+  <resource type="sound" id="SOUND_JOUER_MENU">Ressource/jouer.wav</resource>
+  <resource type="sound" id="SOUND_SWITCH_MENU">Ressource/menuSwitch.wav</resource>
+  <resource type="sound" id="SOUND_ENTER_MENU">Ressource/menuEnter.wav</resource>
+  <resource type="sound" id="WIND_SOUND">Ressource/Sound/menu/wind.wav</resource>
+  
+  
+  <resource type="image" id="FIRE_PARTICULE">Ressource/part/test_particle.png</resource>
+  <resource type="image" id="konoha_PARTICULE">Ressource/part/konoha_particule.png</resource>
+  
+  <resource type="file" id="FILE_XML_WIND">Ressource/part/wind.xml</resource>
+  <resource type="file" id="FILE_XML_WIND2">Ressource/part/wind2.xml</resource>
+  <resource type="file" id="FILE_XML_FIRE">Ressource/part/particule.xml</resource>
+  <resource type="file" id="FILE_XML_THEME">Ressource/chat.xml</resource>
+  
+</resources>

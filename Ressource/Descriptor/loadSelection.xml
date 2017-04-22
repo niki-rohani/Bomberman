@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<!-- GAMEPLAY -->
+	<!-- Background -->
+
+
+
+	<resource type="image" id="MENU_SELECT_BACK">Ressource/Image/SunaCharacter.png</resource>
+	<resource type="image" id="MENU_IN_PARCH">Ressource/Image/parcheminjeu.png</resource>
+	<resource type="image" id="MENU_IN_BANDE">Ressource/Image/bande.png</resource>
+
+
+	<resource type="image" id="MENU_IN_CHAT">Ressource/Image/chat.png</resource>
+
+
+	
+	<resource type="image" id="MENU_IN_BANDEAU">Ressource/Image/bandeautransparent.png</resource>
+	
+	<resource type  =  "image" id = "MENU_SELECT_BAND">Ressource/Image/CharacterBand.png</resource>
+	
+	
+	
+	<resource type = "image" id = "MENU_ACCEPT">Ressource/Image/Selection/ready .png</resource>
+	
+	
+	<!--  PLAYER -->
+	
+	<resource type = "image" id ="MENU_SELECT_NARUTO_MIN_1">Ressource/Image/Selection/naruto_select_1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_MIN_2">Ressource/Image/Selection/naruto_select_2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_MIN_3">Ressource/Image/Selection/naruto_select_3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_MIN_4">Ressource/Image/Selection/naruto_select_4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_MIN_1">Ressource/Image/Selection/deidara_select_1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_MIN_2">Ressource/Image/Selection/deidara_select_2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_MIN_3">Ressource/Image/Selection/deidara_select_3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_MIN_4">Ressource/Image/Selection/deidara_select_4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_MIN_1">Ressource/Image/Selection/sasuke_select_1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_MIN_2">Ressource/Image/Selection/sasuke_select_2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_MIN_3">Ressource/Image/Selection/sasuke_select_3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_MIN_4">Ressource/Image/Selection/sasuke_select_4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_MIN_1">Ressource/Image/Selection/orochimaru_select_1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_MIN_2">Ressource/Image/Selection/orochimaru_select_2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_MIN_3">Ressource/Image/Selection/orochimaru_select_3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_MIN_4">Ressource/Image/Selection/orochimaru_select_4.png</resource>
+	
+	
+	<resource type = "image" id ="MENU_SELECT_NARUTO_1">Ressource/Image/Selection/naruto 1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_2">Ressource/Image/Selection/naruto 2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_3">Ressource/Image/Selection/naruto 3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_NARUTO_4">Ressource/Image/Selection/naruto 4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_1">Ressource/Image/Selection/deidara 1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_2">Ressource/Image/Selection/deidara 2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_3">Ressource/Image/Selection/deidara 3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_DEIDARA_4">Ressource/Image/Selection/deidara 4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_1">Ressource/Image/Selection/sasuke 1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_2">Ressource/Image/Selection/sasuke 2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_3">Ressource/Image/Selection/sasuke 3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_SASUKE_4">Ressource/Image/Selection/sasuke 4.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_1">Ressource/Image/Selection/orochimaru 1.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_2">Ressource/Image/Selection/orochimaru 2.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_3">Ressource/Image/Selection/orochimaru 3.png</resource>
+	<resource type = "image" id ="MENU_SELECT_OROCHIMARU_4">Ressource/Image/Selection/orochimaru 4.png</resource>
+	
+	
+
+<resource type = "image" id ="MENU_SELECT_NARUTO_MIN">Ressource/Image/Selection/naruto_select.png</resource>
+	
+	
+	
+	<resource type = "image" id ="MENU_SELECT_1P">Ressource/Image/Selection/1p.png</resource>
+	<resource type = "image" id ="MENU_SELECT_2P">Ressource/Image/Selection/2p.png</resource>
+	<resource type = "image" id ="MENU_SELECT_3P">Ressource/Image/Selection/3p.png</resource>
+	<resource type = "image" id ="MENU_SELECT_4P">Ressource/Image/Selection/4p.png</resource>
+	
+	
+	<resource type = "sound" id ="MENU_SELECT_ACCEPT_1">Ressource/Sound/waitingRoom/deidara_accept.wav</resource>
+	<resource type = "sound" id ="MENU_SELECT_ACCEPT_2">Ressource/Sound/waitingRoom/naruto_accept.wav</resource>
+	<resource type = "sound" id ="MENU_SELECT_ACCEPT_3">Ressource/Sound/waitingRoom/orochimaru_accept.wav</resource>
+	<resource type = "sound" id ="MENU_SELECT_ACCEPT_4">Ressource/Sound/waitingRoom/sasuke_accept.wav</resource>
+	<resource type = "sound" id ="MENU_SELECT_SELECT">Ressource/Sound/waitingRoom/event.wav</resource>
+	
+	
+	<!-- HUD -->
+	<!-- Player Animations -->
+
+	<!-- Son -->
+	<resource type="sound" id="SOUND_SELECT">Ressource/Sound/waitingRoom/05_Denkousekka.ogg</resource>
+	
+	
+	<!-- File -->
+	<resource type  = "file" id="FILE_XML_WINDSUNA">Ressource/part/windSuna.xml</resource>
+	
+	
+	<resource type ="text" id="TEXT_MENU_WELCOME_FR">Bienvenue sur BomberShinobi</resource>
+	
+	
+	
+	<!--  -->
+	<resource type="image" id="suna_PARTICULE">Ressource/part/suna_particule.png</resource>
+  
+  
+  <!--  -->
+  
+  
+  <resource type="file" id="FONT">Ressource/dekiru.ttf</resource>
+  
+  
+  <resource type="arene">Ressource/Descriptor/arene.xml</resource>
+  
+  
+</resources>

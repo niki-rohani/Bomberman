@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<resource tw = "39" th = "65" duration = "180" type = "animation" id = "SPRITE_RUN_1_4">Ressource/Image/Game/run_1_sasuke.png</resource>
+	<resource tw = "40" th = "65" duration = "180" type = "animation" id = "SPRITE_RUN_2_4">Ressource/Image/Game/run_2_sasuke.png</resource>
+	<resource   tw = "40" th = "67" duration = "180"  type = "animation" id = "SPRITE_RUN_3_4">Ressource/Image/Game/run_3_sasuke.png</resource>
+	<resource tw = "40" th = "65" duration = "180"  type = "animation" id = "SPRITE_RUN_4_4">Ressource/Image/Game/run_4_sasuke.png</resource>
+	<resource tw = "41" th = "67" duration = "380" type = "animation" id = "SPRITE_IDLE_1_4">Ressource/Image/Game/idle_1_sasuke.png</resource>
+	<resource tw = "41" th = "67" duration = "380" type = "animation" id = "SPRITE_IDLE_2_4">Ressource/Image/Game/idle_2_sasuke.png</resource>
+	<resource tw = "41" th = "67" duration = "380" type = "animation" id = "SPRITE_IDLE_3_4">Ressource/Image/Game/idle_3_sasuke.png</resource>
+	<resource tw = "41" th = "67" duration = "380" type = "animation" id = "SPRITE_IDLE_4_4">Ressource/Image/Game/idle_4_sasuke.png</resource>
+	
+	
+		<resource tw = "39" th = "71" duration = "100" type = "animation" id = "SPRITE_RUN_1_1">Ressource/Image/Game/run_1_deidara.png</resource>
+	<resource tw = "40" th = "71" duration = "180" type = "animation" id = "SPRITE_RUN_2_1">Ressource/Image/Game/run_2_deidara.png</resource>
+	<resource tw = "46" th = "71" duration = "180" type = "animation" id = "SPRITE_RUN_3_1">Ressource/Image/Game/run_3_deidara.png</resource>
+	<resource tw = "47" th = "71" duration = "180" type = "animation" id = "SPRITE_RUN_4_1">Ressource/Image/Game/run_4_deidara.png</resource>
+	<resource tw = "36" th = "71" duration = "180" type = "animation" id = "SPRITE_IDLE_1_1">Ressource/Image/Game/idle_1_deidara.png</resource>
+	<resource tw = "36" th = "71" duration = "400" type = "animation" id = "SPRITE_IDLE_2_1">Ressource/Image/Game/idle_2_deidara.png</resource>
+	
+	
+	<resource tw = "41" th = "67" duration = "100" type = "animation" id = "SPRITE_RUN_1_2">Ressource/Image/Game/run_1_naruto.png</resource>
+	<resource tw = "37" th = "67" duration = "100" type = "animation" id = "SPRITE_RUN_2_2">Ressource/Image/Game/run_2_naruto.png</resource>
+	<resource tw = "45" th = "67" duration = "100" type = "animation" id = "SPRITE_RUN_3_2">Ressource/Image/Game/run_3_naruto.png</resource>
+	<resource tw = "45" th = "66" duration = "100" type = "animation" id = "SPRITE_RUN_4_2">Ressource/Image/Game/run_4_naruto.png</resource>
+	<resource tw = "36" th = "67" duration = "250" type = "animation" id = "SPRITE_IDLE_1_2">Ressource/Image/Game/idle_1_naruto.png</resource>
+	<resource tw = "34" th = "67" duration = "400" type = "animation" id = "SPRITE_IDLE_2_2">Ressource/Image/Game/idle_2_naruto.png</resource>
+	<resource tw = "34" th = "67" duration = "400" type = "animation" id = "SPRITE_IDLE_3_2">Ressource/Image/Game/idle_3_naruto.png</resource>
+	<resource tw = "34" th = "67" duration = "400" type = "animation" id = "SPRITE_IDLE_4_2">Ressource/Image/Game/idle_4_naruto.png</resource>
+	
+	<resource tw = "33" th = "67" duration = "180" type = "animation" id = "SPRITE_RUN_1_3">Ressource/Image/Game/run_1_orochimaru.png</resource>
+	<resource tw = "31" th = "67" duration = "180" type = "animation" id = "SPRITE_RUN_2_3">Ressource/Image/Game/run_2_orochimaru.png</resource>
+	<resource tw = "49" th = "67" duration = "180" type = "animation" id = "SPRITE_RUN_3_3">Ressource/Image/Game/run_3_orochimaru.png</resource>
+	<resource tw = "49" th = "67" duration = "180" type = "animation" id = "SPRITE_RUN_4_3">Ressource/Image/Game/run_4_orochimaru.png</resource>
+	<resource tw = "35" th = "67" duration = "200" type = "animation" id = "SPRITE_IDLE_1_3">Ressource/Image/Game/idle_1_orochimaru.png</resource>
+	<resource tw = "47" th = "71" duration = "400" type = "animation" id = "SPRITE_IDLE_2_3">Ressource/Image/Game/idle_2_orochimaru.png</resource>
+	<resource tw = "47" th = "71" duration = "400" type = "animation" id = "SPRITE_IDLE_3_3">Ressource/Image/Game/idle_3_orochimaru.png</resource>
+	<resource tw = "47" th = "71" duration = "400" type = "animation" id = "SPRITE_IDLE_4_3">Ressource/Image/Game/idle_4_orochimaru.png</resource>
+	
+	
+	<resource tw = "43" th = "83" duration = "300" type = "animation" id = "START_1">Ressource/Image/Game/deidara1.png</resource>
+	<resource tw = "92" th = "117" duration = "100" type = "animation" id = "START_2">Ressource/Image/Game/naruto1.png</resource>
+	
+	<resource tw = "44" th = "100" duration = "180" type = "animation" id = "START_3">Ressource/Image/Game/orochimaru1.png</resource>
+	<resource tw = "42" th = "98" duration = "190" type = "animation" id = "START_4">Ressource/Image/Game/sasuke1.png</resource>
+	  
+	<resource type = "image" id = "BOMB" >Ressource/Image/Game/bomb.png </resource>
+	
+	<resource type = "file"     id = "EXPLOSE1" >Ressource/Image/Game/chido.xml</resource>
+
+
+	<resource type = "image" id = "EXPLOSION1" >Ressource/Image/Game/particle.png</resource>
+
+
+
+
+
+
+
+
+
+ 
+	
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+
+
+<resources>
+
+<resource type = "text" id = "MENU_TITRE_1">Créer</resource>
+<resource type = "text" id = "MENU_TITRE_2">Jouer</resource>
+<resource type = "text" id = "MENU_TITRE_3">Options</resource>
+<resource type = "text" id = "MENU_TITRE_4">Quitter</resource>
+
+<resource type = "text" id = "CREATEBATTLE_NAMEGAME">Nom de la Partie</resource>
+<resource type = "text" id = "CREATEBATTLE_NUMBER">Nombre de joueurs</resource>
+<resource type = "text" id = "CREATEBATTLE">CREATION DE PARTIE</resource>
+
+</resources>

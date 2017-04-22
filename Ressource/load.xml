@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+<!-- GAMEPLAY -->
+  <!-- Background -->
+  <resource type="image" id="INTRO">Ressource/Image/Connec.png</resource>
+  <resource type="image" id="INTRO_TITRE">Ressource/Image/Introtitre.png</resource>
+ 
+  <!-- HUD -->
+  <!--  Player Animations -->
+  
+</resources>
